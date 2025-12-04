@@ -1,0 +1,36 @@
+- [ ] #task 3 Markov Chains for the Long Term 76 #tag/subtag
+- [ ] #task 3.1 Limiting Distribution, 76 #tag/subtag
+- [ ] #task 3.2 Stationary Distribution, 80 #tag/subtag
+- [ ] #task 3.3 Can you Find the Way to State a? 94 #tag/subtag
+- [ ] #task 3.4 Irreducible Markov Chains, 103 #tag/subtag
+- [ ] #task 3.5 Periodicity, 106 #tag/subtag
+- [ ] #task 3.6 Ergodic Markov Chains, 109 #tag/subtag
+- [ ] #task 3.7 Time Reversibility, 114 #tag/subtag
+- [ ] #task 3.8 Absorbing Chains, 119 #tag/subtag
+- [ ] #task 3.9 Regeneration and the Strong Markov Property*, 133 #tag/subtag
+- [ ] #task 3.10 Proofs of Limit Theorems*, 135 #tag/subtag
+- [ ] #task Exercises, 144 #tag/subtag
+- [ ] #task 4 Branching Processes 158 #tag/subtag
+- [ ] #task 4.1 Introduction, 158 #tag/subtag
+- [ ] #task 4.2 Mean Generation Size, 160 #tag/subtag
+- [ ] #task 4.3 Probability Generating Functions, 164 #tag/subtag
+- [ ] #task 4.4 Extinction is Forever, 168 #tag/subtag
+- [ ] #task Exercises, 175 #tag/subtag
+- [ ] #task 5 Markov Chain Monte Carlo 181 #tag/subtag
+- [ ] #task 5.1 Introduction, 181 #tag/subtag
+- [ ] #task 5.2 Metropolis–Hastings Algorithm, 187 #tag/subtag
+- [ ] #task 5.3 Gibbs Sampler, 197 #tag/subtag
+- [ ] #task 5.4 Perfect Sampling*, 205 #tag/subtag
+- [ ] #task 5.5 Rate of Convergence: the Eigenvalue Connection*, 210 #tag/subtag
+- [ ] #task 5.6 Card Shuffling and Total Variation Distance*, 212 #tag/subtag
+- [ ] #task Exercises, 219 #tag/subtag
+- [ ] #task 6 Poisson Process 223 #tag/subtag
+- [ ] #task 6.1 Introduction, 223 #tag/subtag
+- [ ] #task 6.2 Arrival, Interarrival Times, 227 #tag/subtag
+- [ ] #task 6.3 Infinitesimal Probabilities, 234 #tag/subtag
+- [ ] #task 6.4 Thinning, Superposition, 238 #tag/subtag
+- [ ] #task 6.5 Uniform Distribution, 243 #tag/subtag
+- [ ] #task 6.6 Spatial Poisson Process, 249 #tag/subtag
+- [ ] #task 6.7 Nonhomogeneous Poisson Process, 253 #tag/subtag
+- [ ] #task 6.8 Parting Paradox, 255 #tag/subtag
+- [ ] #task Exercises, 258 #tag/subtag
